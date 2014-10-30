@@ -1,4 +1,4 @@
-SeleniumAutomatedTestCases
+﻿# SeleniumAutomatedTestCases
 
 当临时项目126邮箱登录功能以及联系人管理功能脚本开发
 
@@ -9,7 +9,7 @@ SeleniumAutomatedTestCases
 再不适用PO的情况下，可以使用public\location.py 中重新构造的find_element方法
 项目目录介绍：
 
-data 目录用来存储 数据文件
+data目录用来存储  数据文件
 result 目录用来存储测试报告
 result\image 目录用来存储截图快照
 testcase 目录用来存放要执行的测试脚本，只要是case,全部以“case”为文件开头
